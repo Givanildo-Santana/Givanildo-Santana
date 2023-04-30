@@ -5,7 +5,7 @@
 
 <ul>
     <li>Iniciante na área da técnologia</li>
-    <li>Estudando atualmente:<a href="https://www.w3schools.com/html/default.asp">HTML5</a>, <a href="https://www.w3schools.com/css/default.asp"
+    <li>Estudando atualmente:<a href="https://www.w3schools.com/html/default.asp">HTML5</a>, <a href="https://www.w3schools.com/css/default.asp">CSS3</a>
     
   
   <li>  
