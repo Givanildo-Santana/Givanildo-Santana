@@ -13,9 +13,10 @@
     <a href="https://www.w3schools.com/java/default.asp">Java</a>,
     
     <a href="https://www.w3schools.com/sql/default.asp">SQL</a>
-   
     
- <li> <div style="display: inline">
+  </li>
+  
+  <div style="display: inline">
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,3 +28,5 @@
 </ul>
 </div>
     
+
+
