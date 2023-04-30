@@ -1,5 +1,5 @@
 <img src="https://cdn.discordapp.com/attachments/1102288175688323102/1102288235822063718/OSFi.gif" alt="perfil">
-<p style="text-align:center"><strong>Olá, eu sou o Givanildo Santana</strong></p>
+<p align="center"><strong>Olá, eu sou o Givanildo Santana</strong></p>
 
 <ul>
     <li>Iniciante na área da técnologia</li>
