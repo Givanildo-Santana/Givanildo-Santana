@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <img width="1012px" src="https://cdn.discordapp.com/attachments/1102288175688323102/1102288235822063718/OSFi.gif" alt="perfil">
 <p align="center"><strong>Olá, eu sou o Givanildo Santana</strong></p>
 
@@ -25,3 +24,5 @@
 </div>
 </li>
 </ul>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
