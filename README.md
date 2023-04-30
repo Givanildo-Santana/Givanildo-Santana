@@ -2,7 +2,6 @@
 <p align="center"><strong>Olá, eu sou o Givanildo Santana</strong></p>
 
 <hr>
-<p>Estudante e entusiasta na area da técnologia</p>
 <ul>
     <li>Iniciante na área da técnologia</li>
     <li>Estudando atualmente:
