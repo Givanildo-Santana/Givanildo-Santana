@@ -3,4 +3,4 @@
 **Olá, eu sou o Givanildo Santana**
 
 *   Iniciante na área da técnologia
-*   Atualmente estundo HTML,CSS,Java Script, Java e SQL
+*   Estudando atualmente: HTML,CSS,Java Script, Java e SQL
