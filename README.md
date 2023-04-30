@@ -10,13 +10,6 @@
       
       <a href="https://www.w3schools.com/css/default.asp">CSS3</a>
      
-    , <a href="https://www.w3schools.com/js/default.asp">JavaScript</a>
-    
-    , <a href="https://www.w3schools.com/python/default.asp">Python</a>
-    
-    , <a href="https://www.w3schools.com/java/default.asp">Java</a>
-    
-    , <a href="https://www.w3schools.com/sql/default.asp">SQL</a></li>
     
     
   <li>  
