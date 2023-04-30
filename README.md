@@ -2,6 +2,8 @@
 
 ![Givanildo Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=Givanildo-Santana&show_icons=true&theme=algolia)
 
+<hr>
+
 <p align="center"><strong>Olá, eu sou o Givanildo Santana</strong></p>
 
 <hr>
