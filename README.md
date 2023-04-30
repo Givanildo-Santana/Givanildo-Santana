@@ -6,6 +6,7 @@
 <ul>
     <li>Iniciante na área da técnologia</li>
     <li>Estudando atualmente:<a href="https://www.w3schools.com/html/default.asp">HTML5</a>, 
+    
     <a href="https://www.w3schools.com/css/default.asp">CSS3</a>,
     
     <a href="https://www.w3schools.com/js/default.asp">JavaScript</a>,
@@ -13,8 +14,7 @@
     <a href="https://www.w3schools.com/java/default.asp">Java</a>,
     
     <a href="https://www.w3schools.com/sql/default.asp">SQL</a>
-    
-  </li>
+    </li>
   
   <div style="display: inline">
 
