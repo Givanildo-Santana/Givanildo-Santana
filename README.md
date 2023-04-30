@@ -1,4 +1,4 @@
-<img width="1012px" height="406px" src="https://cdn.discordapp.com/attachments/1102288175688323102/1102288235822063718/OSFi.gif" alt="perfil">
+<img width="1012px" src="https://cdn.discordapp.com/attachments/1102288175688323102/1102288235822063718/OSFi.gif" alt="perfil">
 <p align="center"><strong>Olá, eu sou o Givanildo Santana</strong></p>
 
 <ul>
