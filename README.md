@@ -2,6 +2,8 @@
 <p align="center"><strong>Olá, eu sou o Givanildo Santana</strong></p>
 
 <hr>
+![Givanildo Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=Givanildo-Santana&show_icons=true&theme=algolia)
+
 <p>Estudante e entusiasta na area da técnologia</p>
 <ul>
     <li>Iniciante na área da técnologia</li>
@@ -24,5 +26,3 @@
 </div>
 </li>
 </ul>
-
-![Givanildo Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=Givanildo-Santana&show_icons=true&theme=algolia)
